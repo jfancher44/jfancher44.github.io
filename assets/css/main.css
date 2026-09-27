@@ -3315,37 +3315,38 @@ input, select, textarea {
 
 	}
 
+/* Sidebar */
 #header {
     background: #aa9dfc !important;
-    color: #ffffff;
 }
 
 /* Name */
-#header h1 a {
-    color: #ffffff;
+#header #logo a {
+    color: #ffffff !important;
 }
 
 /* Description */
-#header p {
-    color: #f5f3ff;
+#header header p {
+    color: #ffffff !important;
 }
 
-/* Navigation */
-#nav ul li a {
-    color: #f5f3ff;
+/* Navigation links */
+#header #nav a {
+    color: #ffffff !important;
 }
 
-#nav ul li a:hover,
-#nav ul li a.active {
-    color: #ffffff;
+/* Navigation hover */
+#header #nav a:hover {
+    color: #4b3f72 !important;
 }
 
 /* Social icons */
-#header .icons a {
-    color: #f5f3ff;
+#header footer .icons a {
+    color: #ffffff !important;
 }
 
-#header .icons a:hover {
-    color: #ffffff;
+/* Social icons hover */
+#header footer .icons a:hover {
+    color: #4b3f72 !important;
 }
 
