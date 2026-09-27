@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #aa9dfc;
 		font-size: 3.5em;
 	}
 
@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #aa9dfc;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #5b4b8a;
 					display: block;
 					padding: 0;
 				}
@@ -3332,7 +3332,7 @@ input, select, textarea {
 
 /* Navigation links */
 #header #nav a {
-    color: #ffffff !important;
+    color: #5d5d61 !important;
 }
 
 /* Navigation hover */
