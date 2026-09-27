@@ -3322,12 +3322,12 @@ input, select, textarea {
 
 /* Name */
 #header #logo a {
-    color: #ffffff !important;
+    color: #5d5d61 !important;
 }
 
 /* Description */
 #header header p {
-    color: #ffffff !important;
+    color: #5d5d61 !important;
 }
 
 /* Navigation links */
