@@ -2700,8 +2700,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #ff000 !important;
-		color: #aa9dfc;
+		background: #aa9dfc !important;
+		color: #ffffff;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -3314,3 +3314,38 @@ input, select, textarea {
 			}
 
 	}
+
+#header {
+    background: #aa9dfc !important;
+    color: #ffffff;
+}
+
+/* Name */
+#header h1 a {
+    color: #ffffff;
+}
+
+/* Description */
+#header p {
+    color: #f5f3ff;
+}
+
+/* Navigation */
+#nav ul li a {
+    color: #f5f3ff;
+}
+
+#nav ul li a:hover,
+#nav ul li a.active {
+    color: #ffffff;
+}
+
+/* Social icons */
+#header .icons a {
+    color: #f5f3ff;
+}
+
+#header .icons a:hover {
+    color: #ffffff;
+}
+
