@@ -3350,3 +3350,7 @@ input, select, textarea {
     color: #4b3f72 !important;
 }
 
+#header #nav ul li {
+    border-top: 1px solid rgba(75, 63, 114, 0.5) !important;
+}
+
