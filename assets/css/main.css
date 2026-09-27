@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #aa9dfc;
+		color: #aa9dfc !important;
 		font-size: 3.5em;
 	}
 
