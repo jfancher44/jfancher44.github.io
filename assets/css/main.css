@@ -3354,3 +3354,15 @@ input, select, textarea {
     border-top: 1px solid rgba(75, 63, 114, 0.5) !important;
 }
 
+
+/* Custom project links */
+.small-text {
+    font-size: 0.75em;
+    color: #888;
+}
+
+.link-list {
+    display: flex;
+    gap: 20px;
+}
+
