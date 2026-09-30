@@ -3355,14 +3355,18 @@ input, select, textarea {
 }
 
 
-/* Custom project links */
-.small-text {
-    font-size: 0.75em;
-    color: #888;
+/* Custom links */
+#main .small-text {
+    font-size: 0.75em !important;
+    margin-top: 1em;
 }
 
-.link-list {
-    display: flex;
-    gap: 20px;
+#main .link-list {
+    display: flex !important;
+    gap: 30px !important;
+}
+
+#main .small-text a {
+    font-size: inherit !important;
 }
 
